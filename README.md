@@ -2,7 +2,7 @@
 ![img](img/banner2.png)
 This is my project in 2014, even before I started GitHub.
 
-The project is application of my library, [RhinoArchitecturalLibrary](https://github.com/kurema/RhinoArchitecturalLibrary).
+The project is an application of my library, [RhinoArchitecturalLibrary](https://github.com/kurema/RhinoArchitecturalLibrary).
 If you wanna make your own stuff like this, plaese use gh file [here](https://github.com/kurema/RhinoArchitecturalLibrary/releases).
 
 ## Files
