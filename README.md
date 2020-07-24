@@ -10,7 +10,7 @@ If you wanna make your own stuff like this, plaese use gh file [here](https://gi
 | ---- | ------- |
 | /render | Rendered contents |
 | /render/main | Project images |
-| /render/library_sample_result | Sample image of library |
+| /render/library_sample_result | Sample image of the library |
 | /src | Grasshopper files |
 | /src/Apartment/Apartment.6.gh | Final result of this project |
 | /img | Images for documents |
