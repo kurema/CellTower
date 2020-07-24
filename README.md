@@ -20,7 +20,7 @@ Sorry for messy naming method. This is how I used to do, and I still often do fo
 ## Environment
 Rhinoceros+Grasshopper
 
-## Galary
+## Gallery
 ### Cell Tower
 ![tower](img/apartment/009.jpeg)
 ![tower](img/apartment/007.jpeg)
